@@ -1,0 +1,25 @@
+.blog{
+    background-color: lightpink;
+}
+
+
+
+h2{
+    text-decoration: underline;
+}
+
+#second-blog{
+    background-color: aqua;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+/* #exm{
+    color: red;
+    border: 2px solid black;
+    margin: 50px;
+    padding: 50px;
+} */
+
+li{
+    /* display: inline; */
+}

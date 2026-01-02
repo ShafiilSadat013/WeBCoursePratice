@@ -1,0 +1,45 @@
+            .guns{
+                color: brown;
+                font-weight: bold;
+                border: 20px solid antiquewhite;
+                padding: 10px 10px 20px 10px;
+                box-shadow: 10px 10px 10px gray;
+                margin-bottom: 40px;
+                border-radius: 23px;
+            }
+            #fcls{
+                text-align: center;
+                font-size: 60px;
+                font-family:  monospace;
+                padding: 10px;
+                background-color: black;
+                color: whitesmoke;
+                background-image: url('picss/download.jfif');
+                /* background-repeat: no-repeat; */
+                background-size: cover;
+                background-position: center;
+                
+            }
+            .btn{
+                font-size: xx-large;
+                font-family: monospace;
+                padding: 5px 10px 10px;
+                border: 1px solid black;
+                color: violet;
+                
+            }
+            .gunss{
+                display: inline-block;
+                border: 10px solid oldlace;
+                box-shadow: 10px 10px 10px green;
+                margin-bottom: 30px;
+                
+                /* visibility: hidden; */
+            }
+            #hide{
+                background-color: black;
+            }
+            #lll{
+                margin-bottom: 30px;
+            
+            }

@@ -1,0 +1,54 @@
+
+body{
+    max-width: 1170px;
+    background-color: bisque;
+    margin: 0 auto;
+}
+
+
+.card:hover{
+    background-color: white;
+}
+
+
+.card{
+    width: 300px;
+    border: 2px solid sandybrown;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px rgb(168, 154, 154);
+    text-align: left;
+}
+.card img{
+    width: 100%;
+    border-radius: 10px;
+
+}
+.card h3{
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+.card button{
+
+    background-color: wheat;
+    padding: 10px;
+    font-size: 1.25em;
+    border-radius: 25px;
+    cursor: pointer;
+
+    
+}
+.card p{
+    background-color: aliceblue;
+    
+}
+.card-container{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.card-section{
+    text-align: center;
+    color: red;
+}
